@@ -1,0 +1,31 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build with Clang",
+            "type": "shell",
+            "command": "/usr/bin/clang++",
+            "args": [
+                "-std=c++17",
+                "-stdlib=libc++",
+                "${workspaceFolder}/src/*.cpp",
+                "-o",
+                "${workspaceFolder}/build/Mario",
+                "-I/usr/local/Cellar/sfml/2.6.1/include",
+                "-L/usr/local/Cellar/sfml/2.6.1/lib",
+                "-lsfml-graphics",
+                "-lsfml-window",
+                "-lsfml-system",
+                "-lsfml-audio"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/yeet4000/Mario/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/yeet4000/Mario/include -I/Users/yeet4000/Mario/external/rapidjson -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/Mario.dir/src/core/main.cpp.o -c /Users/yeet4000/Mario/src/core/main.cpp",
+  "file": "/Users/yeet4000/Mario/src/core/main.cpp",
+  "output": "CMakeFiles/Mario.dir/src/core/main.cpp.o"
+},
+{
+  "directory": "/Users/yeet4000/Mario/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/yeet4000/Mario/include -I/Users/yeet4000/Mario/external/rapidjson -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/Mario.dir/src/entities/Block.cpp.o -c /Users/yeet4000/Mario/src/entities/Block.cpp",
+  "file": "/Users/yeet4000/Mario/src/entities/Block.cpp",
+  "output": "CMakeFiles/Mario.dir/src/entities/Block.cpp.o"
+},
+{
+  "directory": "/Users/yeet4000/Mario/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/yeet4000/Mario/include -I/Users/yeet4000/Mario/external/rapidjson -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/Mario.dir/src/entities/Character.cpp.o -c /Users/yeet4000/Mario/src/entities/Character.cpp",
+  "file": "/Users/yeet4000/Mario/src/entities/Character.cpp",
+  "output": "CMakeFiles/Mario.dir/src/entities/Character.cpp.o"
+},
+{
+  "directory": "/Users/yeet4000/Mario/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/yeet4000/Mario/include -I/Users/yeet4000/Mario/external/rapidjson -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/Mario.dir/src/entities/Coin.cpp.o -c /Users/yeet4000/Mario/src/entities/Coin.cpp",
+  "file": "/Users/yeet4000/Mario/src/entities/Coin.cpp",
+  "output": "CMakeFiles/Mario.dir/src/entities/Coin.cpp.o"
+},
+{
+  "directory": "/Users/yeet4000/Mario/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/yeet4000/Mario/include -I/Users/yeet4000/Mario/external/rapidjson -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/Mario.dir/src/core/Game.cpp.o -c /Users/yeet4000/Mario/src/core/Game.cpp",
+  "file": "/Users/yeet4000/Mario/src/core/Game.cpp",
+  "output": "CMakeFiles/Mario.dir/src/core/Game.cpp.o"
+},
+{
+  "directory": "/Users/yeet4000/Mario/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/yeet4000/Mario/include -I/Users/yeet4000/Mario/external/rapidjson -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/Mario.dir/src/world/Map.cpp.o -c /Users/yeet4000/Mario/src/world/Map.cpp",
+  "file": "/Users/yeet4000/Mario/src/world/Map.cpp",
+  "output": "CMakeFiles/Mario.dir/src/world/Map.cpp.o"
+},
+{
+  "directory": "/Users/yeet4000/Mario/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/yeet4000/Mario/include -I/Users/yeet4000/Mario/external/rapidjson -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/Mario.dir/src/entities/Mushroom.cpp.o -c /Users/yeet4000/Mario/src/entities/Mushroom.cpp",
+  "file": "/Users/yeet4000/Mario/src/entities/Mushroom.cpp",
+  "output": "CMakeFiles/Mario.dir/src/entities/Mushroom.cpp.o"
+},
+{
+  "directory": "/Users/yeet4000/Mario/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/yeet4000/Mario/include -I/Users/yeet4000/Mario/external/rapidjson -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/Mario.dir/src/entities/QuestionBlock.cpp.o -c /Users/yeet4000/Mario/src/entities/QuestionBlock.cpp",
+  "file": "/Users/yeet4000/Mario/src/entities/QuestionBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/entities/QuestionBlock.cpp.o"
+},
+{
+  "directory": "/Users/yeet4000/Mario/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/yeet4000/Mario/include -I/Users/yeet4000/Mario/external/rapidjson -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/Mario.dir/src/world/Tile.cpp.o -c /Users/yeet4000/Mario/src/world/Tile.cpp",
+  "file": "/Users/yeet4000/Mario/src/world/Tile.cpp",
+  "output": "CMakeFiles/Mario.dir/src/world/Tile.cpp.o"
+},
+{
+  "directory": "/Users/yeet4000/Mario/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/yeet4000/Mario/include -I/Users/yeet4000/Mario/external/rapidjson -isystem /usr/local/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/Mario.dir/src/utils/GameObject.cpp.o -c /Users/yeet4000/Mario/src/utils/GameObject.cpp",
+  "file": "/Users/yeet4000/Mario/src/utils/GameObject.cpp",
+  "output": "CMakeFiles/Mario.dir/src/utils/GameObject.cpp.o"
+}
+]

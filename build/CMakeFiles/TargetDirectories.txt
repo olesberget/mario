@@ -1,0 +1,3 @@
+/Users/yeet4000/Mario/build/CMakeFiles/Mario.dir
+/Users/yeet4000/Mario/build/CMakeFiles/edit_cache.dir
+/Users/yeet4000/Mario/build/CMakeFiles/rebuild_cache.dir

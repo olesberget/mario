@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cmake.configureSettings": {
+        "CMAKE_EXPORT_COMPILE_COMMANDS": "YES"
+    },
+    "files.associations": {
+        "*.hpp": "cpp",
+        "*.h": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
